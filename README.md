@@ -40,14 +40,14 @@
 
 - <a href="http://www.labnol.org/internet/learning-vim-for-beginners/28820/" target="_blank">Learning Vim for Beginners</a>
 
-## VirtualBoxのインストール
+## VirtualBox&Vagrantのインストール
 
 1. システムのアップデート  
 $ sudo apt update
 1. システムのアップグレード  
 $ sudo apt upgrade
-1. VirtualBoxのインストール  
-$ sudo apt install virtualbox
+1. インストール  
+$ sudo apt install virtualbox vagrant
 
 ## GNU Awkのインストール
 
