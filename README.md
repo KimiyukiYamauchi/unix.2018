@@ -8,7 +8,7 @@
 
 ## 関連リンク
 
-- <a href="http://www.lpi.or.jp/" target="_blank">LPIC</a>
+- <a href="http://www.lpi.or.jp/" target="_blank">LPI-JAPAN</a>
 - <a href="http://www.backlog.jp/git-guide/" target="_blank">サルでもわかるGit入門</a>
 - <a href="http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-1511.iso" target="_blank">CentOSダウンロード</a>
 - <a href="https://qiita.com/sudachi808/items/edc304b3ee6c1436b0fd" target="_blank">共有フォルダの設定</a>
